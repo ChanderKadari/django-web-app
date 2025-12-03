@@ -28,9 +28,7 @@ DEBUG = True
 
 
 ALLOWED_HOSTS = [
-    'localhost',
-    '127.0.0.1',
-    'django-web-app-en5d.onrender.com'
+    "django-web-app-1-r6zw.onrender.com", "localhost", "127.0.0.1"
 ]
 
 
